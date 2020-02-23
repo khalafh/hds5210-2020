@@ -1,0 +1,46 @@
+importing Jupyter notebook from week05_assignment.ipynb
+Finding tests in NoName
+Trying:
+    safe_average([100,200,'three'])
+Expecting:
+    150
+**********************************************************************
+File "week05_assignment.ipynb", line 8, in NoName
+Failed example:
+    safe_average([100,200,'three'])
+Expected:
+    150
+Got:
+    150.0
+Trying:
+    safe_average(['one','two','three'])
+Expecting:
+    None
+**********************************************************************
+File "week05_assignment.ipynb", line 11, in NoName
+Failed example:
+    safe_average(['one','two','three'])
+Expected:
+    None
+Got nothing
+    Q#        Your Response       Correct Answer   Feedback Points
+  21.1                    A                    A    CORRECT   0.33
+  21.2                    3                    D  INCORRECT   0.00
+  21.3                    D                    B  INCORRECT   0.00
+  22.1                                         D    CORRECT   0.50
+  22.2                 True                 True    CORRECT   0.50
+  23.1                    D                    D    CORRECT   0.50
+  23.2                    D                    D    CORRECT   0.50
+  24.1                    C                    C    CORRECT   0.50
+  24.2                    B                    B    CORRECT   0.50
+  25.1                    1                    1    CORRECT   0.83
+                          0                    0    CORRECT   0.83
+                          2                    2    CORRECT   0.83
+  25.2                  2.0                    2    CORRECT   0.83
+                       None                 None    CORRECT   0.83
+                      200.0                  200    CORRECT   0.83
+
+Scored 8.33 out of 9.0: 92.59%
+
+I gave full credit for any answer on 22.1 because I had setup the solution cell wrong.
+
