@@ -6,6 +6,6 @@ Week 07 Feedback
 32.2: OK
 32.3: 0.5/1 - Since HTML is form of XML, the lxml package can also be used.
 
-Overall: 8/8
+Overall: 4.5/5
 
 Comments:
